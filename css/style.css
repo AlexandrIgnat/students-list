@@ -1,0 +1,15 @@
+.error input {
+  border-color: #ff3860;
+}
+.error select {
+  border-color: #ff3860;
+}
+
+.error {
+  color: #ff3860;
+  font-size: 9px;
+}
+
+.success input {
+  border-color: #09c372;
+}
